@@ -11,15 +11,12 @@ I mostly make small animals out of clay, if you want to check out more of my wor
 
 ```markdown
 
-![Image)(url<img width="594" alt="Screen Shot 2021-05-09 at 5 36 25 PM" src="https://user-images.githubusercontent.com/83926379/117589074-16220c80-b0ed-11eb-8e5e-8a5b636fbfdc.png">
+![Image]<img width="251" alt="Screen Shot 2021-05-09 at 5 39 37 PM" src="https://user-images.githubusercontent.com/83926379/117589164-8892ec80-b0ed-11eb-9f9f-bba00cb75296.png">
+
 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ggwan5/ggwan5.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Buisness inquireies or custom orders?
 
