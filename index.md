@@ -1,19 +1,17 @@
-## Welcome to GitHub Pages
+## Sligi Creations( This is a test website)
 
-You can use the [editor on GitHub](https://github.com/ggwan5/ggwan5.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.kuyfiuyfiuygoiugoiuhpiouhoiughoiug
+###  What I do 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I make small sculptures out of clay and paint things :)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My most recent works
+
+I mostly make small animals out of clay, if you want to check out more of my work go to [instagram] (https://www.instagram.com/sligi_creations/) 
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -23,7 +21,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![Image)(url<img width="594" alt="Screen Shot 2021-05-09 at 5 36 25 PM" src="https://user-images.githubusercontent.com/83926379/117589074-16220c80-b0ed-11eb-8e5e-8a5b636fbfdc.png">
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -32,6 +31,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ggwan5/ggwan5.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Buisness inquireies or custom orders?
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contact sligicreations@gmail.com
